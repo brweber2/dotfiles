@@ -1,5 +1,3 @@
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
-
 # {{{ Prompts
 
 # Load the theme-able prompt system and use it to set a prompt.
