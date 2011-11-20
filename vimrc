@@ -205,3 +205,6 @@ function! OpenURL()
 endfunction
 map <Leader>w :call OpenURL()<CR>
 
+" run nailgun
+let vimclojure#WantNailgun = 1
+let vimclojure#NailgunClient = "/usr/local/bin/ng"
